@@ -1,12 +1,12 @@
-# Password Generator 🔐
+# Password Generator 
 
-## 📖 Description
+## Description
 A Java Console Application that generates random passwords based on user preferences and checks their strength.  
 Built as a practice project to apply Object-Oriented Programming concepts in Java.  
 
 ---
 
-## ✨ Features
+## Features
 1. **Generate a Password**
    - Choose whether to include:
      - Uppercase letters
@@ -39,7 +39,7 @@ Built as a practice project to apply Object-Oriented Programming concepts in Jav
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 <pre>
   Password-Generator/
 │
@@ -56,9 +56,9 @@ Built as a practice project to apply Object-Oriented Programming concepts in Jav
 ---
 
 
-## 🖥 Example Output
+## Example Output
 
-
+<pre>
 Enter 1 - Password Generator
 Enter 2 - Password Strength Check
 Enter 3 - Useful Information
@@ -84,5 +84,5 @@ Enter 3 - Useful Information
 Enter 4 - Quit
 Choice:4
 Closing the program bye bye!
-
+</pre>
 ---
